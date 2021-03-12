@@ -1,7 +1,7 @@
 import { startEngine } from '../index.js';
 import getRandomInt from '../utils.js';
 
-const condition = 'Answer "yes" if the number is even, otherwise answer "no"';
+const condition = 'Answer "yes" if the number is even, otherwise answer "no".';
 
 const isEven = (num) => num % 2 === 0;
 
