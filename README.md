@@ -5,3 +5,4 @@
 Name initialization & find even number: [![asciicast](https://asciinema.org/a/R8SFUo8GD7o8S6w2OYEVj6QzA.svg)](https://asciinema.org/a/R8SFUo8GD7o8S6w2OYEVj6QzA)<br><br>
 Calculator (+, -, * operators): [![asciicast](https://asciinema.org/a/6dW0JllYFbDL9L1XOLAGUt4ho.svg)](https://asciinema.org/a/6dW0JllYFbDL9L1XOLAGUt4ho)<br><br>
 Greatest Common Divisor Calculator: [![asciicast](https://asciinema.org/a/KhIGfR6abBsjfUPVjdXFcVfUb.svg)](https://asciinema.org/a/KhIGfR6abBsjfUPVjdXFcVfUb)<br><br>
+Arithmetic progression: [![asciicast](https://asciinema.org/a/VO7PtEfHIvQFImATKdHI0k96V.svg)](https://asciinema.org/a/VO7PtEfHIvQFImATKdHI0k96V)<br><br>
