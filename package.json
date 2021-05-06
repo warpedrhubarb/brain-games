@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/warpedrhubarb/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/warpedrhubarb/frontend-project-lvl1/actions)",
+  "description": "[![Actions Status](https://github.com/warpedrhubarb/brain-games/workflows/hexlet-check/badge.svg)](https://github.com/warpedrhubarb/frontend-project-lvl1/actions)",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/warpedrhubarb/frontend-project-lvl1.git"
+    "url": "git+https://github.com/warpedrhubarb/brain-games.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/warpedrhubarb/frontend-project-lvl1/issues"
+    "url": "https://github.com/warpedrhubarb/brain-games/issues"
   },
-  "homepage": "https://github.com/warpedrhubarb/frontend-project-lvl1#readme",
+  "homepage": "https://github.com/warpedrhubarb/brain-games#readme",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
