@@ -1,7 +1,7 @@
 {
-  "name": "@hexlet/code",
+  "name": ",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/warpedrhubarb/brain-games/workflows/hexlet-check/badge.svg)](https://github.com/warpedrhubarb/frontend-project-lvl1/actions)",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
