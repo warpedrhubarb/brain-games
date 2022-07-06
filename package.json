@@ -1,7 +1,12 @@
 {
   "name": "brain-games",
   "version": "1.0.1",
-  "description": "",
+  "description": "Brain Games (math quiz) command line games",
+  "keywords": [
+    "math",
+    "quiz",
+    "game"
+  ],
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,8 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/warpedrhubarb/brain-games.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Maksim S",
   "bugs": {
     "url": "https://github.com/warpedrhubarb/brain-games/issues"
   },
