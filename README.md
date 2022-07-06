@@ -4,7 +4,7 @@
 [![example workflow](https://github.com/warpedrhubarb/brain-games/actions/workflows/linter.yml/badge.svg)](https://github.com/warpedrhubarb/frontend-project-lvl1/actions)
 
 
-## Description:
+## Description
 
 Brain Games is a mathematical quiz built for command line.
 
@@ -20,13 +20,13 @@ It consists of five games:
 
 **Find prime number:** What number is missing in the progression?
 
-## Installation:
+## Installation
 
 Clone the project to your local directory and run
 
 ```npm install```
 
-## Usage:
+## Usage
 
 Run the following commands to play corresponding games:
 
